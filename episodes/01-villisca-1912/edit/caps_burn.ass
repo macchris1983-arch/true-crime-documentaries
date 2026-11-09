@@ -1,0 +1,323 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Liberation Serif,46,&H00D4E2E8,&H00D4E2E8,&H38000000,&H38000000,0,0,0,0,100,100,0,0,4,10,0,2,80,80,88,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.06,Cap,,0,0,0,,{\an2\pos(960,990)}On the morning of June tenth, nineteen twelve,
+Dialogue: 0,0:00:03.76,0:00:05.91,Cap,,0,0,0,,{\an2\pos(960,990)}a mother in southwest Iowa
+Dialogue: 0,0:00:06.60,0:00:08.14,Cap,,0,0,0,,{\an2\pos(960,990)}telephoned a neighbor's house.
+Dialogue: 0,0:00:08.83,0:00:10.00,Cap,,0,0,0,,{\an2\pos(960,990)}Her husband told the coroner about it.
+Dialogue: 0,0:00:10.32,0:00:13.16,Cap,,0,0,0,,{\an2\pos(960,990)}My wife did, yes.
+Dialogue: 0,0:00:13.90,0:00:15.33,Cap,,0,0,0,,{\an2\pos(960,990)}He could not say what time.
+Dialogue: 0,0:00:16.01,0:00:17.07,Cap,,0,0,0,,{\an2\pos(960,990)}She tried, he said,
+Dialogue: 0,0:00:17.76,0:00:18.36,Cap,,0,0,0,,{\an2\pos(960,990)}about three different times.
+Dialogue: 0,0:00:18.23,0:00:22.50,Cap,,0,0,0,,{\an2\pos(960,990)}Her two daughters had stayed the night there.
+Dialogue: 0,0:00:23.08,0:00:24.37,Cap,,0,0,0,,{\an2\pos(960,990)}She expected them back.
+Dialogue: 0,0:00:25.78,0:00:26.53,Cap,,0,0,0,,{\an2\pos(960,990)}That house was locked.
+Dialogue: 0,0:00:26.90,0:00:27.58,Cap,,0,0,0,,{\an2\pos(960,990)}The blinds were down.
+Dialogue: 0,0:00:28.30,0:00:30.48,Cap,,0,0,0,,{\an2\pos(960,990)}Everyone who tells this story
+Dialogue: 0,0:00:30.74,0:00:33.24,Cap,,0,0,0,,{\an2\pos(960,990)}will tell you why it was never solved.
+Dialogue: 0,0:00:33.70,0:00:36.56,Cap,,0,0,0,,{\an2\pos(960,990)}A crowd walked through the rooms.
+Dialogue: 0,0:00:36.75,0:00:37.56,Cap,,0,0,0,,{\an2\pos(960,990)}The evidence was lost.
+Dialogue: 0,0:00:38.25,0:00:41.14,Cap,,0,0,0,,{\an2\pos(960,990)}And that is partly true.
+Dialogue: 0,0:00:41.84,0:00:44.17,Cap,,0,0,0,,{\an2\pos(960,990)}But here is what the paperwork shows.
+Dialogue: 0,0:00:44.89,0:00:47.46,Cap,,0,0,0,,{\an2\pos(960,990)}This case did not run out of evidence.
+Dialogue: 0,0:00:48.20,0:00:49.24,Cap,,0,0,0,,{\an2\pos(960,990)}For nineteen years
+Dialogue: 0,0:00:50.14,0:00:51.07,Cap,,0,0,0,,{\an2\pos(960,990)}it kept getting more.
+Dialogue: 0,0:00:51.75,0:00:52.35,Cap,,0,0,0,,{\an2\pos(960,990)}A closet.
+Dialogue: 0,0:00:53.02,0:00:56.74,Cap,,0,0,0,,{\an2\pos(960,990)}A photograph, said to come from inside a child's eye.
+Dialogue: 0,0:00:57.46,0:00:59.71,Cap,,0,0,0,,{\an2\pos(960,990)}A sound that turned into a man.
+Dialogue: 0,0:01:00.39,0:01:01.53,Cap,,0,0,0,,{\an2\pos(960,990)}A signed confession.
+Dialogue: 0,0:01:02.21,0:01:02.96,Cap,,0,0,0,,{\an2\pos(960,990)}A fingerprint.
+Dialogue: 0,0:01:03.57,0:01:07.14,Cap,,0,0,0,,{\an2\pos(960,990)}I can't tell you who killed eight people in Villisca.
+Dialogue: 0,0:01:07.87,0:01:08.56,Cap,,0,0,0,,{\an2\pos(960,990)}No one can.
+Dialogue: 0,0:01:09.23,0:01:11.40,Cap,,0,0,0,,{\an2\pos(960,990)}What I can give you is an inventory.
+Dialogue: 0,0:01:11.81,0:01:12.68,Cap,,0,0,0,,{\an2\pos(960,990)}What was in that house.
+Dialogue: 0,0:01:13.43,0:01:15.73,Cap,,0,0,0,,{\an2\pos(960,990)}And what was carried in afterward.
+Dialogue: 0,0:01:16.37,0:01:18.13,Cap,,0,0,0,,{\an2\pos(960,990)}The first entry is the people.
+Dialogue: 0,0:01:18.69,0:01:19.99,Cap,,0,0,0,,{\an2\pos(960,990)}Joe Moore was forty-three.
+Dialogue: 0,0:01:20.53,0:01:21.89,Cap,,0,0,0,,{\an2\pos(960,990)}He sold farm implements.
+Dialogue: 0,0:01:22.47,0:01:23.99,Cap,,0,0,0,,{\an2\pos(960,990)}Sarah Moore was thirty-nine,
+Dialogue: 0,0:01:24.53,0:01:27.17,Cap,,0,0,0,,{\an2\pos(960,990)}and she helped run the Children's Day program
+Dialogue: 0,0:01:27.79,0:01:29.19,Cap,,0,0,0,,{\an2\pos(960,990)}at the Presbyterian church.
+Dialogue: 0,0:01:29.77,0:01:30.53,Cap,,0,0,0,,{\an2\pos(960,862)}Herman was eleven.
+Dialogue: 0,0:01:31.09,0:01:32.01,Cap,,0,0,0,,{\an2\pos(960,862)}That Sunday night,
+Dialogue: 0,0:01:32.57,0:01:33.39,Cap,,0,0,0,,{\an2\pos(960,862)}he spoke a piece
+Dialogue: 0,0:01:33.97,0:01:36.89,Cap,,0,0,0,,{\an2\pos(960,862)}about God watching over the sparrows.
+Dialogue: 0,0:01:37.45,0:01:38.05,Cap,,0,0,0,,{\an2\pos(960,862)}Katherine was ten.
+Dialogue: 0,0:01:38.23,0:01:38.87,Cap,,0,0,0,,{\an2\pos(960,862)}Boyd was seven.
+Dialogue: 0,0:01:39.41,0:01:40.25,Cap,,0,0,0,,{\an2\pos(960,862)}Paul was five.
+Dialogue: 0,0:01:40.81,0:01:44.89,Cap,,0,0,0,,{\an2\pos(960,990)}Lena Stillinger took part in the program too.
+Dialogue: 0,0:01:45.79,0:01:46.75,Cap,,0,0,0,,{\an2\pos(960,990)}Her sister Ina was with her.
+Dialogue: 0,0:01:47.25,0:01:48.09,Cap,,0,0,0,,{\an2\pos(960,990)}The records disagree about their ages.
+Dialogue: 0,0:01:48.69,0:01:52.11,Cap,,0,0,0,,{\an2\pos(960,990)}Lena was eleven or twelve.
+Dialogue: 0,0:01:52.57,0:01:53.69,Cap,,0,0,0,,{\an2\pos(960,990)}Ina was eight or nine,
+Dialogue: 0,0:01:54.23,0:01:56.05,Cap,,0,0,0,,{\an2\pos(960,990)}and one trial report says six.
+Dialogue: 0,0:01:56.59,0:01:58.85,Cap,,0,0,0,,{\an2\pos(960,990)}At six o'clock that evening,
+Dialogue: 0,0:01:59.41,0:02:00.69,Cap,,0,0,0,,{\an2\pos(960,990)}according to their older sister Blanche,
+Dialogue: 0,0:02:01.23,0:02:03.07,Cap,,0,0,0,,{\an2\pos(960,990)}Joe Moore telephoned the Stillinger home.
+Dialogue: 0,0:02:03.65,0:02:08.25,Cap,,0,0,0,,{\an2\pos(960,990)}He did not want the girls walking back in the dark.
+Dialogue: 0,0:02:08.49,0:02:10.27,Cap,,0,0,0,,{\an2\pos(960,990)}Could they stay with his family?
+Dialogue: 0,0:02:10.87,0:02:14.05,Cap,,0,0,0,,{\an2\pos(960,990)}Blanche said she thought that would be all right.
+Dialogue: 0,0:02:14.67,0:02:16.69,Cap,,0,0,0,,{\an2\pos(960,990)}The pastor testified the program ended about nine fifteen.
+Dialogue: 0,0:02:17.03,0:02:18.69,Cap,,0,0,0,,{\an2\pos(960,990)}Nobody who saw what came next
+Dialogue: 0,0:02:19.21,0:02:22.69,Cap,,0,0,0,,{\an2\pos(960,990)}ever gave an account that held.
+Dialogue: 0,0:02:23.07,0:02:25.31,Cap,,0,0,0,,{\an2\pos(960,990)}So I won't give you one.
+Dialogue: 0,0:02:25.91,0:02:26.55,Cap,,0,0,0,,{\an2\pos(960,990)}Monday morning.
+Dialogue: 0,0:02:27.21,0:02:29.11,Cap,,0,0,0,,{\an2\pos(960,990)}A neighbor, Mary Peckham,
+Dialogue: 0,0:02:29.81,0:02:30.73,Cap,,0,0,0,,{\an2\pos(960,990)}noticed how still the house was.
+Dialogue: 0,0:02:31.01,0:02:32.13,Cap,,0,0,0,,{\an2\pos(960,990)}She tried the doors.
+Dialogue: 0,0:02:32.85,0:02:35.71,Cap,,0,0,0,,{\an2\pos(960,990)}Joe's brother Ross came with a key.
+Dialogue: 0,0:02:36.13,0:02:39.61,Cap,,0,0,0,,{\an2\pos(960,990)}He opened the door to the room off the parlor.
+Dialogue: 0,0:02:40.31,0:02:41.05,Cap,,0,0,0,,{\an2\pos(960,990)}He told the coroner
+Dialogue: 0,0:02:41.75,0:02:44.49,Cap,,0,0,0,,{\an2\pos(960,990)}he did not wait long enough to see anything else.
+Dialogue: 0,0:02:45.21,0:02:48.47,Cap,,0,0,0,,{\an2\pos(960,990)}The town marshal, Hank Horton, went through every room.
+Dialogue: 0,0:02:49.15,0:02:50.59,Cap,,0,0,0,,{\an2\pos(960,862)}And then he did something
+Dialogue: 0,0:02:51.29,0:02:52.09,Cap,,0,0,0,,{\an2\pos(960,862)}almost nobody retells.
+Dialogue: 0,0:02:52.09,0:02:53.25,Cap,,0,0,0,,{\an2\pos(960,862)}According to the Moore store clerk,
+Dialogue: 0,0:02:54.09,0:02:55.81,Cap,,0,0,0,,{\an2\pos(960,862)}he locked the house
+Dialogue: 0,0:02:56.59,0:03:00.43,Cap,,0,0,0,,{\an2\pos(960,990)}and left the keys with the neighbor.
+Dialogue: 0,0:03:01.11,0:03:01.71,Cap,,0,0,0,,{\an2\pos(960,990)}Remember that.
+Dialogue: 0,0:03:00.25,0:03:01.67,Cap,,0,0,0,,{\an2\pos(960,990)}A locked house.
+Dialogue: 0,0:03:02.11,0:03:04.61,Cap,,0,0,0,,{\an2\pos(960,990)}A woman next door, holding the key.
+Dialogue: 0,0:03:05.15,0:03:08.67,Cap,,0,0,0,,{\an2\pos(960,990)}It is the last moment anyone could say
+Dialogue: 0,0:03:09.35,0:03:10.31,Cap,,0,0,0,,{\an2\pos(960,990)}who had been inside.
+Dialogue: 0,0:03:11.09,0:03:12.11,Cap,,0,0,0,,{\an2\pos(960,990)}When the doctors went in,
+Dialogue: 0,0:03:12.79,0:03:13.89,Cap,,0,0,0,,{\an2\pos(960,990)}every face was covered.
+Dialogue: 0,0:03:14.69,0:03:15.57,Cap,,0,0,0,,{\an2\pos(960,990)}Dr. Williams climbed the stairs
+Dialogue: 0,0:03:15.85,0:03:19.21,Cap,,0,0,0,,{\an2\pos(960,990)}to the room on the south side.
+Dialogue: 0,0:03:20.01,0:03:21.89,Cap,,0,0,0,,{\an2\pos(960,990)}A small boy, on his stomach.
+Dialogue: 0,0:03:22.67,0:03:23.69,Cap,,0,0,0,,{\an2\pos(960,990)}A gauze undershirt
+Dialogue: 0,0:03:24.45,0:03:26.07,Cap,,0,0,0,,{\an2\pos(960,990)}laid over the top of his head.
+Dialogue: 0,0:03:26.79,0:03:30.91,Cap,,0,0,0,,{\an2\pos(960,990)}Dr. Williams told the inquest what he did next.
+Dialogue: 0,0:03:31.81,0:03:32.75,Cap,,0,0,0,,{\an2\pos(960,990)}I lifted that off
+Dialogue: 0,0:03:33.65,0:03:34.39,Cap,,0,0,0,,{\an2\pos(960,990)}lifted it off
+Dialogue: 0,0:03:35.29,0:03:36.51,Cap,,0,0,0,,{\an2\pos(960,990)}to see which one it was.
+Dialogue: 0,0:03:42.20,0:03:43.70,Cap,,0,0,0,,{\an2\pos(960,990)}So here is the first inventory.
+Dialogue: 0,0:03:44.14,0:03:48.68,Cap,,0,0,0,,{\an2\pos(960,990)}An ax, near the bed where Lena and Ina were found.
+Dialogue: 0,0:03:49.14,0:03:51.76,Cap,,0,0,0,,{\an2\pos(960,990)}A piece of bacon, wrapped in a flour sack,
+Dialogue: 0,0:03:52.26,0:03:55.22,Cap,,0,0,0,,{\an2\pos(960,990)}at the head of that bed.
+Dialogue: 0,0:03:55.66,0:03:57.88,Cap,,0,0,0,,{\an2\pos(960,990)}A lamp on the floor, at the foot of the parents' bed.
+Dialogue: 0,0:03:58.30,0:04:02.32,Cap,,0,0,0,,{\an2\pos(960,990)}The marshal moved it out of the way.
+Dialogue: 0,0:04:02.72,0:04:04.60,Cap,,0,0,0,,{\an2\pos(960,990)}Skirts and aprons hung over the windows.
+Dialogue: 0,0:04:05.06,0:04:06.04,Cap,,0,0,0,,{\an2\pos(960,990)}Marks in the ceiling.
+Dialogue: 0,0:04:06.48,0:04:07.60,Cap,,0,0,0,,{\an2\pos(960,990)}Dr. Williams found no footprints.
+Dialogue: 0,0:04:08.04,0:04:09.26,Cap,,0,0,0,,{\an2\pos(960,990)}Five years later,
+Dialogue: 0,0:04:09.56,0:04:10.36,Cap,,0,0,0,,{\an2\pos(960,990)}the coroner testified
+Dialogue: 0,0:04:10.80,0:04:12.14,Cap,,0,0,0,,{\an2\pos(960,990)}there were no finger marks on the ax handle.
+Dialogue: 0,0:04:12.60,0:04:15.16,Cap,,0,0,0,,{\an2\pos(960,990)}Then the house was opened again.
+Dialogue: 0,0:04:15.56,0:04:18.02,Cap,,0,0,0,,{\an2\pos(960,990)}The National Guard came to hold the line.
+Dialogue: 0,0:04:18.44,0:04:19.54,Cap,,0,0,0,,{\an2\pos(960,990)}One account says ten thirty.
+Dialogue: 0,0:04:19.96,0:04:21.88,Cap,,0,0,0,,{\an2\pos(960,990)}Another says noon.
+Dialogue: 0,0:04:22.30,0:04:25.54,Cap,,0,0,0,,{\an2\pos(960,990)}How many people went in before that, I can't tell you.
+Dialogue: 0,0:04:25.80,0:04:27.88,Cap,,0,0,0,,{\an2\pos(960,990)}Later accounts say one hundred.
+Dialogue: 0,0:04:28.34,0:04:30.18,Cap,,0,0,0,,{\an2\pos(960,990)}Others say hundreds.
+Dialogue: 0,0:04:30.60,0:04:31.70,Cap,,0,0,0,,{\an2\pos(960,990)}I have not found a count from that day.
+Dialogue: 0,0:04:32.16,0:04:33.98,Cap,,0,0,0,,{\an2\pos(960,990)}What the record does show
+Dialogue: 0,0:04:34.22,0:04:36.44,Cap,,0,0,0,,{\an2\pos(960,990)}is a house entered again and again.
+Dialogue: 0,0:04:37.00,0:04:40.66,Cap,,0,0,0,,{\an2\pos(960,990)}Jessie Moore testified she went in that day,
+Dialogue: 0,0:04:41.10,0:04:42.08,Cap,,0,0,0,,{\an2\pos(960,990)}to get family pictures for the press.
+Dialogue: 0,0:04:42.52,0:04:43.64,Cap,,0,0,0,,{\an2\pos(960,990)}Bedding was burned.
+Dialogue: 0,0:04:44.26,0:04:46.04,Cap,,0,0,0,,{\an2\pos(960,990)}The house was cleaned, then repapered.
+Dialogue: 0,0:04:46.48,0:04:47.22,Cap,,0,0,0,,{\an2\pos(960,990)}So yes.
+Dialogue: 0,0:04:47.68,0:04:48.32,Cap,,0,0,0,,{\an2\pos(960,990)}Things were lost.
+Dialogue: 0,0:04:48.32,0:04:49.80,Cap,,0,0,0,,{\an2\pos(960,990)}But loss only explains what disappeared.
+Dialogue: 0,0:04:50.48,0:04:52.80,Cap,,0,0,0,,{\an2\pos(960,990)}It cannot explain what showed up.
+Dialogue: 0,0:04:53.54,0:04:57.18,Cap,,0,0,0,,{\an2\pos(960,990)}Item one arrives five days after the murders.
+Dialogue: 0,0:04:57.62,0:04:58.68,Cap,,0,0,0,,{\an2\pos(960,990)}A newspaper report, datelined Omaha.
+Dialogue: 0,0:04:59.20,0:05:00.64,Cap,,0,0,0,,{\an2\pos(960,990)}A woman named Retta Johnson
+Dialogue: 0,0:05:01.08,0:05:02.84,Cap,,0,0,0,,{\an2\pos(960,990)}has come back from Villisca.
+Dialogue: 0,0:05:03.28,0:05:06.18,Cap,,0,0,0,,{\an2\pos(960,990)}There is a closet, she says,
+Dialogue: 0,0:05:06.72,0:05:09.58,Cap,,0,0,0,,{\an2\pos(960,990)}off the room where the Stillinger girls slept.
+Dialogue: 0,0:05:10.10,0:05:11.92,Cap,,0,0,0,,{\an2\pos(960,990)}Bags of cotton batting inside.
+Dialogue: 0,0:05:12.38,0:05:15.08,Cap,,0,0,0,,{\an2\pos(960,990)}On them, the marks of a man
+Dialogue: 0,0:05:15.46,0:05:16.62,Cap,,0,0,0,,{\an2\pos(960,990)}who had sat and stood there.
+Dialogue: 0,0:05:17.06,0:05:18.64,Cap,,0,0,0,,{\an2\pos(960,990)}And in the girls' bed,
+Dialogue: 0,0:05:19.08,0:05:21.88,Cap,,0,0,0,,{\an2\pos(960,990)}a piece of watch chain.
+Dialogue: 0,0:05:22.30,0:05:23.40,Cap,,0,0,0,,{\an2\pos(960,990)}Now follow the closet.
+Dialogue: 0,0:05:23.84,0:05:24.70,Cap,,0,0,0,,{\an2\pos(960,990)}By the trial, five years on,
+Dialogue: 0,0:05:25.10,0:05:29.60,Cap,,0,0,0,,{\an2\pos(960,990)}the list of exhibits names a closet upstairs.
+Dialogue: 0,0:05:30.06,0:05:32.68,Cap,,0,0,0,,{\an2\pos(960,990)}A public comment posted under historian Edgar Epperly's name
+Dialogue: 0,0:05:33.04,0:05:37.34,Cap,,0,0,0,,{\an2\pos(960,990)}traces a version of the story to a Kansas City reporter,
+Dialogue: 0,0:05:37.56,0:05:40.04,Cap,,0,0,0,,{\an2\pos(960,990)}with cigarettes, and a heel print in the dust.
+Dialogue: 0,0:05:40.62,0:05:42.94,Cap,,0,0,0,,{\an2\pos(960,990)}It says an undertaker checked,
+Dialogue: 0,0:05:43.68,0:05:48.02,Cap,,0,0,0,,{\an2\pos(960,990)}and the box of cotton sat on two suit boxes
+Dialogue: 0,0:05:48.56,0:05:49.30,Cap,,0,0,0,,{\an2\pos(960,990)}that had not been crushed.
+Dialogue: 0,0:05:49.60,0:05:52.52,Cap,,0,0,0,,{\an2\pos(960,990)}Today, you will hear it was the attic.
+Dialogue: 0,0:05:52.90,0:05:53.70,Cap,,0,0,0,,{\an2\pos(960,990)}Now follow the chain.
+Dialogue: 0,0:05:54.16,0:05:58.96,Cap,,0,0,0,,{\an2\pos(960,990)}A watch chain, in a bed, in June.
+Dialogue: 0,0:05:59.38,0:06:00.24,Cap,,0,0,0,,{\an2\pos(960,990)}By the trial,
+Dialogue: 0,0:06:00.68,0:06:02.52,Cap,,0,0,0,,{\an2\pos(960,990)}a piece of key chain,
+Dialogue: 0,0:06:02.92,0:06:05.76,Cap,,0,0,0,,{\an2\pos(960,990)}and Joe Moore's watch, on the floor.
+Dialogue: 0,0:06:06.22,0:06:07.88,Cap,,0,0,0,,{\an2\pos(960,990)}The containers stayed the same.
+Dialogue: 0,0:06:08.56,0:06:10.88,Cap,,0,0,0,,{\an2\pos(960,990)}What was inside them kept changing.
+Dialogue: 0,0:06:11.49,0:06:12.77,Cap,,0,0,0,,{\an2\pos(960,990)}August, nineteen twelve.
+Dialogue: 0,0:06:13.49,0:06:17.27,Cap,,0,0,0,,{\an2\pos(960,990)}A man from Villisca tells people in Council Bluffs
+Dialogue: 0,0:06:17.99,0:06:19.89,Cap,,0,0,0,,{\an2\pos(960,990)}that detectives have a photograph of the killer.
+Dialogue: 0,0:06:20.59,0:06:22.41,Cap,,0,0,0,,{\an2\pos(960,990)}They got it, he says,
+Dialogue: 0,0:06:22.81,0:06:25.87,Cap,,0,0,0,,{\an2\pos(960,990)}from the retina of one of the Stillinger sisters.
+Dialogue: 0,0:06:26.59,0:06:30.41,Cap,,0,0,0,,{\an2\pos(960,990)}I have found no such photograph in any record.
+Dialogue: 0,0:06:31.11,0:06:34.79,Cap,,0,0,0,,{\an2\pos(960,990)}Her parents were alive to read that.
+Dialogue: 0,0:06:35.55,0:06:37.19,Cap,,0,0,0,,{\an2\pos(960,990)}By the end of that year,
+Dialogue: 0,0:06:38.09,0:06:42.89,Cap,,0,0,0,,{\an2\pos(960,990)}newspapers had reported at least five different men held or arrested.
+Dialogue: 0,0:06:43.17,0:06:43.77,Cap,,0,0,0,,{\an2\pos(960,990)}A brother-in-law.
+Dialogue: 0,0:06:43.77,0:06:45.83,Cap,,0,0,0,,{\an2\pos(960,990)}A man with stained shoes.
+Dialogue: 0,0:06:46.03,0:06:49.65,Cap,,0,0,0,,{\an2\pos(960,990)}A farmhand who wrote about a vision.
+Dialogue: 0,0:06:50.37,0:06:52.99,Cap,,0,0,0,,{\an2\pos(960,990)}A Sioux City porter,
+Dialogue: 0,0:06:53.67,0:06:55.81,Cap,,0,0,0,,{\an2\pos(960,990)}whom the headline identified by his race.
+Dialogue: 0,0:06:56.07,0:06:57.01,Cap,,0,0,0,,{\an2\pos(960,990)}A farmer.
+Dialogue: 0,0:06:57.01,0:06:59.79,Cap,,0,0,0,,{\an2\pos(960,990)}None of them was convicted of anything at Villisca.
+Dialogue: 0,0:07:00.45,0:07:06.31,Cap,,0,0,0,,{\an2\pos(960,990)}The question had stopped being what happened in the house.
+Dialogue: 0,0:07:06.59,0:07:07.75,Cap,,0,0,0,,{\an2\pos(960,990)}It had become
+Dialogue: 0,0:07:08.47,0:07:11.39,Cap,,0,0,0,,{\an2\pos(960,990)}who was going to pay for it.
+Dialogue: 0,0:07:12.29,0:07:13.75,Cap,,0,0,0,,{\an2\pos(960,990)}In nineteen sixteen,
+Dialogue: 0,0:07:14.15,0:07:15.29,Cap,,0,0,0,,{\an2\pos(960,990)}a private detective named James Wilkerson
+Dialogue: 0,0:07:15.59,0:07:16.89,Cap,,0,0,0,,{\an2\pos(960,990)}brought the case a theory.
+Dialogue: 0,0:07:17.27,0:07:18.41,Cap,,0,0,0,,{\an2\pos(960,990)}State senator Frank Jones,
+Dialogue: 0,0:07:18.85,0:07:22.29,Cap,,0,0,0,,{\an2\pos(960,990)}Joe Moore's old employer and business rival,
+Dialogue: 0,0:07:22.69,0:07:23.75,Cap,,0,0,0,,{\an2\pos(960,990)}had hired a killer.
+Dialogue: 0,0:07:24.17,0:07:24.95,Cap,,0,0,0,,{\an2\pos(960,862)}Wilkerson's man was William Mansfield.
+Dialogue: 0,0:07:25.37,0:07:28.01,Cap,,0,0,0,,{\an2\pos(960,862)}A grand jury refused to indict him.
+Dialogue: 0,0:07:28.45,0:07:30.35,Cap,,0,0,0,,{\an2\pos(960,862)}Frank Jones was never charged with anything.
+Dialogue: 0,0:07:30.79,0:07:32.71,Cap,,0,0,0,,{\an2\pos(960,990)}He sued Wilkerson for slander,
+Dialogue: 0,0:07:33.05,0:07:33.65,Cap,,0,0,0,,{\an2\pos(960,990)}asked for sixty thousand dollars,
+Dialogue: 0,0:07:33.99,0:07:35.89,Cap,,0,0,0,,{\an2\pos(960,990)}and lost.
+Dialogue: 0,0:07:36.29,0:07:37.99,Cap,,0,0,0,,{\an2\pos(960,990)}And in that lawsuit,
+Dialogue: 0,0:07:38.41,0:07:40.61,Cap,,0,0,0,,{\an2\pos(960,990)}a witness named Ed Landers took the oath.
+Dialogue: 0,0:07:41.09,0:07:41.75,Cap,,0,0,0,,{\an2\pos(960,990)}You have met Landers already,
+Dialogue: 0,0:07:42.01,0:07:43.75,Cap,,0,0,0,,{\an2\pos(960,990)}in a way.
+Dialogue: 0,0:07:44.29,0:07:46.89,Cap,,0,0,0,,{\an2\pos(960,990)}He was staying a few houses from the Moores.
+Dialogue: 0,0:07:47.31,0:07:49.65,Cap,,0,0,0,,{\an2\pos(960,990)}At the inquest in nineteen twelve,
+Dialogue: 0,0:07:50.07,0:07:51.77,Cap,,0,0,0,,{\an2\pos(960,990)}he described something he heard that Sunday night.
+Dialogue: 0,0:07:52.17,0:07:54.27,Cap,,0,0,0,,{\an2\pos(960,990)}A sound.
+Dialogue: 0,0:07:54.77,0:07:56.69,Cap,,0,0,0,,{\an2\pos(960,990)}Like one boy hooting for another.
+Dialogue: 0,0:07:57.07,0:07:59.85,Cap,,0,0,0,,{\an2\pos(960,990)}The next day, he said, it occurred to him
+Dialogue: 0,0:08:00.51,0:08:03.13,Cap,,0,0,0,,{\an2\pos(960,990)}it might have been a woman moaning.
+Dialogue: 0,0:08:03.55,0:08:05.65,Cap,,0,0,0,,{\an2\pos(960,990)}In the published summary of that testimony,
+Dialogue: 0,0:08:06.07,0:08:07.17,Cap,,0,0,0,,{\an2\pos(960,990)}that is all there is.
+Dialogue: 0,0:08:07.63,0:08:09.25,Cap,,0,0,0,,{\an2\pos(960,862)}Four years later,
+Dialogue: 0,0:08:09.71,0:08:10.31,Cap,,0,0,0,,{\an2\pos(960,862)}under oath,
+Dialogue: 0,0:08:10.87,0:08:14.11,Cap,,0,0,0,,{\an2\pos(960,862)}he said that on that same night
+Dialogue: 0,0:08:14.49,0:08:15.09,Cap,,0,0,0,,{\an2\pos(960,862)}he saw Frank Jones's son, Albert,
+Dialogue: 0,0:08:15.31,0:08:18.37,Cap,,0,0,0,,{\an2\pos(960,862)}go into the Moore home.
+Dialogue: 0,0:08:19.77,0:08:21.27,Cap,,0,0,0,,{\an2\pos(960,990)}Albert Jones was never charged either.
+Dialogue: 0,0:08:21.69,0:08:23.33,Cap,,0,0,0,,{\an2\pos(960,990)}Both men denied any part in it.
+Dialogue: 0,0:08:23.75,0:08:27.61,Cap,,0,0,0,,{\an2\pos(960,990)}The prosecution attacked Landers's account in open court.
+Dialogue: 0,0:08:28.05,0:08:28.85,Cap,,0,0,0,,{\an2\pos(960,990)}A sound
+Dialogue: 0,0:08:29.75,0:08:30.43,Cap,,0,0,0,,{\an2\pos(960,990)}became a man.
+Dialogue: 0,0:08:36.08,0:08:39.80,Cap,,0,0,0,,{\an2\pos(960,990)}In nineteen seventeen, the state found its own document.
+Dialogue: 0,0:08:40.36,0:08:41.06,Cap,,0,0,0,,{\an2\pos(960,990)}The Reverend Lyn George Kelly
+Dialogue: 0,0:08:41.26,0:08:42.60,Cap,,0,0,0,,{\an2\pos(960,990)}was a traveling preacher,
+Dialogue: 0,0:08:43.00,0:08:45.98,Cap,,0,0,0,,{\an2\pos(960,990)}in town for one Sunday.
+Dialogue: 0,0:08:46.40,0:08:47.96,Cap,,0,0,0,,{\an2\pos(960,862)}He was charged with the murder of Lena Stillinger.
+Dialogue: 0,0:08:48.20,0:08:52.12,Cap,,0,0,0,,{\an2\pos(960,862)}He had been charged with mailing obscene letters,
+Dialogue: 0,0:08:52.56,0:08:55.48,Cap,,0,0,0,,{\an2\pos(960,862)}and he had been held in a federal mental hospital.
+Dialogue: 0,0:08:55.90,0:08:57.90,Cap,,0,0,0,,{\an2\pos(960,990)}He caught the five nineteen train that morning.
+Dialogue: 0,0:08:58.62,0:09:01.48,Cap,,0,0,0,,{\an2\pos(960,990)}The train left hours before anyone opened the door.
+Dialogue: 0,0:09:01.80,0:09:03.36,Cap,,0,0,0,,{\an2\pos(960,990)}Witnesses swore he spoke of the murders
+Dialogue: 0,0:09:03.80,0:09:06.10,Cap,,0,0,0,,{\an2\pos(960,990)}before the bodies were found.
+Dialogue: 0,0:09:06.52,0:09:07.98,Cap,,0,0,0,,{\an2\pos(960,990)}They swore it five years later.
+Dialogue: 0,0:09:08.50,0:09:12.52,Cap,,0,0,0,,{\an2\pos(960,862)}A station ticket record backed up the date of one encounter.
+Dialogue: 0,0:09:12.80,0:09:15.62,Cap,,0,0,0,,{\an2\pos(960,862)}It could not record what was said.
+Dialogue: 0,0:09:16.04,0:09:16.64,Cap,,0,0,0,,{\an2\pos(960,862)}Then, Logan jail.
+Dialogue: 0,0:09:16.68,0:09:17.30,Cap,,0,0,0,,{\an2\pos(960,862)}August thirtieth.
+Dialogue: 0,0:09:17.72,0:09:18.52,Cap,,0,0,0,,{\an2\pos(960,862)}A newspaper editor testified
+Dialogue: 0,0:09:18.92,0:09:22.48,Cap,,0,0,0,,{\an2\pos(960,862)}that he was handcuffed and placed in Kelly's cell,
+Dialogue: 0,0:09:22.76,0:09:24.10,Cap,,0,0,0,,{\an2\pos(960,862)}playing an automobile thief.
+Dialogue: 0,0:09:24.52,0:09:25.76,Cap,,0,0,0,,{\an2\pos(960,862)}A sheriff read out accusations.
+Dialogue: 0,0:09:26.18,0:09:27.90,Cap,,0,0,0,,{\an2\pos(960,862)}The editor recalled eighty-seven paragraphs.
+Dialogue: 0,0:09:28.36,0:09:29.34,Cap,,0,0,0,,{\an2\pos(960,990)}Kelly said,
+Dialogue: 0,0:09:29.64,0:09:31.08,Cap,,0,0,0,,{\an2\pos(960,990)}that's a lie.
+Dialogue: 0,0:09:31.52,0:09:34.64,Cap,,0,0,0,,{\an2\pos(960,990)}Early the next morning, a county attorney took down a statement.
+Dialogue: 0,0:09:35.04,0:09:36.86,Cap,,0,0,0,,{\an2\pos(960,862)}Its first lines say it was made
+Dialogue: 0,0:09:37.62,0:09:39.34,Cap,,0,0,0,,{\an2\pos(960,862)}without any promise or threats.
+Dialogue: 0,0:09:39.76,0:09:43.76,Cap,,0,0,0,,{\an2\pos(960,862)}In it, a voice tells Kelly to slay utterly.
+Dialogue: 0,0:09:44.06,0:09:46.88,Cap,,0,0,0,,{\an2\pos(960,862)}He climbs the stairs, thinking they are Jacob's ladder.
+Dialogue: 0,0:09:47.20,0:09:48.74,Cap,,0,0,0,,{\an2\pos(960,862)}He kills the children first, it says.
+Dialogue: 0,0:09:49.18,0:09:51.16,Cap,,0,0,0,,{\an2\pos(960,862)}Then the parents.
+Dialogue: 0,0:09:51.58,0:09:54.14,Cap,,0,0,0,,{\an2\pos(960,862)}No record I have read can tell you
+Dialogue: 0,0:09:54.56,0:09:57.44,Cap,,0,0,0,,{\an2\pos(960,862)}whether that is the order it happened.
+Dialogue: 0,0:09:58.16,0:09:59.58,Cap,,0,0,0,,{\an2\pos(960,862)}The attorney general told the jury
+Dialogue: 0,0:10:00.00,0:10:02.88,Cap,,0,0,0,,{\an2\pos(960,862)}Kelly had been asked fifteen times
+Dialogue: 0,0:10:03.30,0:10:04.80,Cap,,0,0,0,,{\an2\pos(960,862)}whether he killed the parents first.
+Dialogue: 0,0:10:05.26,0:10:07.46,Cap,,0,0,0,,{\an2\pos(960,862)}And fifteen times, he said no.
+Dialogue: 0,0:10:07.86,0:10:11.24,Cap,,0,0,0,,{\an2\pos(960,990)}Twenty-five times, he was told no promise could be made.
+Dialogue: 0,0:10:11.64,0:10:14.98,Cap,,0,0,0,,{\an2\pos(960,990)}Fifty-one times, he was told to tell the truth.
+Dialogue: 0,0:10:15.44,0:10:16.50,Cap,,0,0,0,,{\an2\pos(960,990)}The state counted those.
+Dialogue: 0,0:10:16.94,0:10:20.62,Cap,,0,0,0,,{\an2\pos(960,990)}It offered them as proof that he was free.
+Dialogue: 0,0:10:21.00,0:10:21.60,Cap,,0,0,0,,{\an2\pos(960,990)}At trial, Kelly said
+Dialogue: 0,0:10:21.98,0:10:26.46,Cap,,0,0,0,,{\an2\pos(960,990)}I have no recollection of signing that paper.
+Dialogue: 0,0:10:26.70,0:10:27.66,Cap,,0,0,0,,{\an2\pos(960,990)}The record shows a signature.
+Dialogue: 0,0:10:28.36,0:10:31.82,Cap,,0,0,0,,{\an2\pos(960,990)}It cannot show you what the signature is worth.
+Dialogue: 0,0:10:32.58,0:10:35.60,Cap,,0,0,0,,{\an2\pos(960,862)}There is one more name in the Omaha paper.
+Dialogue: 0,0:10:36.34,0:10:38.64,Cap,,0,0,0,,{\an2\pos(960,862)}A committee was raising money for Kelly's defense.
+Dialogue: 0,0:10:39.42,0:10:40.28,Cap,,0,0,0,,{\an2\pos(960,862)}It held meetings.
+Dialogue: 0,0:10:41.00,0:10:41.76,Cap,,0,0,0,,{\an2\pos(960,862)}It passed the hat.
+Dialogue: 0,0:10:42.50,0:10:43.82,Cap,,0,0,0,,{\an2\pos(960,862)}Its officers are listed.
+Dialogue: 0,0:10:44.58,0:10:46.48,Cap,,0,0,0,,{\an2\pos(960,990)}Remember the man who told the coroner
+Dialogue: 0,0:10:47.22,0:10:48.30,Cap,,0,0,0,,{\an2\pos(960,990)}my wife did, yes.
+Dialogue: 0,0:10:49.04,0:10:50.98,Cap,,0,0,0,,{\an2\pos(960,990)}She phoned about three different times.
+Dialogue: 0,0:10:51.72,0:10:52.52,Cap,,0,0,0,,{\an2\pos(960,990)}The state of Iowa had charged Kelly
+Dialogue: 0,0:10:52.76,0:10:53.64,Cap,,0,0,0,,{\an2\pos(960,990)}with killing his daughter.
+Dialogue: 0,0:10:54.40,0:10:55.44,Cap,,0,0,0,,{\an2\pos(960,990)}And Joseph Stillinger
+Dialogue: 0,0:10:56.84,0:10:59.96,Cap,,0,0,0,,{\an2\pos(960,990)}was the president of the committee
+Dialogue: 0,0:11:00.70,0:11:01.54,Cap,,0,0,0,,{\an2\pos(960,990)}trying to set him free.
+Dialogue: 0,0:11:07.20,0:11:08.60,Cap,,0,0,0,,{\an2\pos(960,990)}The paper does not say why.
+Dialogue: 0,0:11:09.08,0:11:12.76,Cap,,0,0,0,,{\an2\pos(960,990)}The committee said it wanted the guilty man brought to justice.
+Dialogue: 0,0:11:13.22,0:11:16.18,Cap,,0,0,0,,{\an2\pos(960,862)}It did not believe it had him.
+Dialogue: 0,0:11:16.62,0:11:19.24,Cap,,0,0,0,,{\an2\pos(960,862)}The first jury took twenty ballots.
+Dialogue: 0,0:11:19.76,0:11:20.48,Cap,,0,0,0,,{\an2\pos(960,862)}Eleven for acquittal, every time.
+Dialogue: 0,0:11:20.92,0:11:26.68,Cap,,0,0,0,,{\an2\pos(960,862)}One man, W. C. Brown, held for not guilty by reason of insanity.
+Dialogue: 0,0:11:27.14,0:11:30.32,Cap,,0,0,0,,{\an2\pos(960,990)}In November, a second jury acquitted Kelly.
+Dialogue: 0,0:11:30.78,0:11:31.74,Cap,,0,0,0,,{\an2\pos(960,990)}He was found not guilty.
+Dialogue: 0,0:11:32.00,0:11:33.88,Cap,,0,0,0,,{\an2\pos(960,990)}That is the verdict.
+Dialogue: 0,0:11:34.48,0:11:35.90,Cap,,0,0,0,,{\an2\pos(960,990)}There is one last item.
+Dialogue: 0,0:11:36.34,0:11:37.96,Cap,,0,0,0,,{\an2\pos(960,990)}March, nineteen thirty-one.
+Dialogue: 0,0:11:38.36,0:11:40.52,Cap,,0,0,0,,{\an2\pos(960,990)}A man in a Detroit jail,
+Dialogue: 0,0:11:40.96,0:11:42.64,Cap,,0,0,0,,{\an2\pos(960,990)}after five hours with detectives,
+Dialogue: 0,0:11:43.10,0:11:44.08,Cap,,0,0,0,,{\an2\pos(960,990)}confesses to the Villisca murders.
+Dialogue: 0,0:11:44.08,0:11:45.82,Cap,,0,0,0,,{\an2\pos(960,990)}The papers report
+Dialogue: 0,0:11:46.32,0:11:50.56,Cap,,0,0,0,,{\an2\pos(960,990)}that his fingerprints matched prints found at the scene.
+Dialogue: 0,0:11:50.98,0:11:51.58,Cap,,0,0,0,,{\an2\pos(960,990)}Remember the coroner.
+Dialogue: 0,0:11:50.26,0:11:53.54,Cap,,0,0,0,,{\an2\pos(960,990)}No finger marks on the handle.
+Dialogue: 0,0:11:53.98,0:11:55.52,Cap,,0,0,0,,{\an2\pos(960,990)}And this man's confession has a problem.
+Dialogue: 0,0:11:55.92,0:11:58.14,Cap,,0,0,0,,{\an2\pos(960,990)}He says he killed a man,
+Dialogue: 0,0:11:58.58,0:11:59.18,Cap,,0,0,0,,{\an2\pos(960,990)}his wife,
+Dialogue: 0,0:11:59.66,0:12:02.18,Cap,,0,0,0,,{\an2\pos(960,990)}and their four children.
+Dialogue: 0,0:12:02.58,0:12:03.20,Cap,,0,0,0,,{\an2\pos(960,990)}Six people.
+Dialogue: 0,0:12:03.92,0:12:06.04,Cap,,0,0,0,,{\an2\pos(960,990)}Officers said it did not tally.
+Dialogue: 0,0:12:06.74,0:12:08.14,Cap,,0,0,0,,{\an2\pos(960,990)}The last confession in the file
+Dialogue: 0,0:12:09.04,0:12:11.12,Cap,,0,0,0,,{\an2\pos(960,990)}forgot Lena and Ina.
+Dialogue: 0,0:12:16.79,0:12:18.85,Cap,,0,0,0,,{\an2\pos(960,990)}So here is the inventory now.
+Dialogue: 0,0:12:19.59,0:12:20.23,Cap,,0,0,0,,{\an2\pos(960,990)}A house.
+Dialogue: 0,0:12:21.01,0:12:21.61,Cap,,0,0,0,,{\an2\pos(960,990)}An ax.
+Dialogue: 0,0:12:22.33,0:12:23.21,Cap,,0,0,0,,{\an2\pos(960,990)}A few photographs.
+Dialogue: 0,0:12:23.95,0:12:25.35,Cap,,0,0,0,,{\an2\pos(960,990)}Everything else was carried in.
+Dialogue: 0,0:12:26.11,0:12:29.89,Cap,,0,0,0,,{\an2\pos(960,990)}Some of it, by people with something to gain.
+Dialogue: 0,0:12:30.33,0:12:32.35,Cap,,0,0,0,,{\an2\pos(960,990)}Much of it, I think,
+Dialogue: 0,0:12:32.67,0:12:37.59,Cap,,0,0,0,,{\an2\pos(960,990)}by people who could not stand an empty line on the form.
+Dialogue: 0,0:12:38.35,0:12:39.57,Cap,,0,0,0,,{\an2\pos(960,990)}That is what this kind of crime does.
+Dialogue: 0,0:12:40.07,0:12:43.95,Cap,,0,0,0,,{\an2\pos(960,990)}It leaves a space the exact size of a name.
+Dialogue: 0,0:12:44.69,0:12:48.87,Cap,,0,0,0,,{\an2\pos(960,990)}And a town will put anything in it.
+Dialogue: 0,0:12:49.63,0:12:50.23,Cap,,0,0,0,,{\an2\pos(960,990)}A stranger.
+Dialogue: 0,0:12:50.53,0:12:51.13,Cap,,0,0,0,,{\an2\pos(960,990)}A senator.
+Dialogue: 0,0:12:50.93,0:12:52.83,Cap,,0,0,0,,{\an2\pos(960,990)}A preacher who heard voices.
+Dialogue: 0,0:12:53.29,0:12:56.71,Cap,,0,0,0,,{\an2\pos(960,990)}No one has ever been convicted of these murders.
+Dialogue: 0,0:12:57.13,0:12:57.97,Cap,,0,0,0,,{\an2\pos(960,990)}Reverend Kelly was acquitted.
+Dialogue: 0,0:12:58.43,0:13:01.63,Cap,,0,0,0,,{\an2\pos(960,990)}Frank and Albert Jones were never charged.
+Dialogue: 0,0:13:01.99,0:13:03.73,Cap,,0,0,0,,{\an2\pos(960,990)}The one thing in this file
+Dialogue: 0,0:13:04.01,0:13:06.27,Cap,,0,0,0,,{\an2\pos(960,990)}that nobody needed to invent
+Dialogue: 0,0:13:06.99,0:13:07.89,Cap,,0,0,0,,{\an2\pos(960,990)}is a mother,
+Dialogue: 0,0:13:08.67,0:13:09.27,Cap,,0,0,0,,{\an2\pos(960,990)}on a Monday morning,
+Dialogue: 0,0:13:09.15,0:13:10.33,Cap,,0,0,0,,{\an2\pos(960,990)}calling a house.
+Dialogue: 0,0:13:11.23,0:13:12.73,Cap,,0,0,0,,{\an2\pos(960,990)}About three different times.
+Dialogue: 0,0:13:12.73,0:13:18.59,Cap,,0,0,0,,{\an2\pos(960,990)}This film is drawn from court testimony and newspapers of the time.
+Dialogue: 0,0:13:19.03,0:13:20.37,Cap,,0,0,0,,{\an2\pos(960,990)}A report is not proof.
+Dialogue: 0,0:13:20.85,0:13:23.81,Cap,,0,0,0,,{\an2\pos(960,990)}Everyone named here is presumed innocent of these murders.
