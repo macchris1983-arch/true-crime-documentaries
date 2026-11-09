@@ -43,8 +43,9 @@ P={("01",1):("jun11","",J11),("01",5):("jun12","",J12),
 ("08",12):("s27wide","Asked fifteen times whether he killed the parents first.",B27),
 ("09",0):("s29","“Officers of this committee are: Joseph Stillinger…”",B29),
 ("10",0):("s29","“Twenty ballots were taken.”",B29),("10",1):("s29","Brown voted that Kelly was guilty, but insane.",B29)}
-for (c,k),(n,t,ci) in P.items():
-    S[c][k]=((lambda n=n,t=t:scan(n,t)),ci)
+for (_c,_k),(_n,_t,_ci) in P.items():
+    S[_c][_k]=((lambda n=_n,t=_t:scan(n,t)),_ci)
+
 
 BE="Beatrice Daily Express, 10 June 1912, p. 1";SB2="Omaha Sunday Bee, 2 Sept 1917, p. 1"
 S["03"][0]=((lambda:scan("beatrice")),BE)
