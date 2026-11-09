@@ -1,0 +1,208 @@
+01 0.00 8.80 On the morning of June 10, 1912, a mother in southwest Iowa telephoned a neighbor's house.
+01 8.80 12.04 Her husband told the coroner about it.
+01 12.04 13.84 My wife did, yes.
+01 13.84 15.96 He could not say what time.
+01 15.96 17.72 She tried, he said.
+01 17.72 23.04 About three different times, her two daughters had stayed the night there.
+01 23.04 26.52 She expected them back.
+01 26.52 29.04 That house was locked.
+01 29.04 30.64 The blinds were down.
+01 30.64 33.52 Everyone who tells this story will tell you
+01 33.52 36.32 why it was never solved.
+01 36.32 39.00 A crowd walked through the rooms.
+01 39.00 40.60 The evidence was lost.
+01 40.60 42.56 And that is partly true.
+01 42.56 45.64 But here is what the paperwork shows.
+01 45.64 48.88 This case did not run out of evidence.
+01 48.88 52.56 For 19 years, it kept getting more.
+01 52.56 58.26 A closet, a photograph said to come from inside a child's eye,
+01 58.26 61.20 A sound that turned into a man.
+01 61.20 63.02 A signed confession.
+01 63.02 64.46 A fingerprint.
+01 64.46 68.94 I can't tell you who killed eight people in Vihil El Esca.
+01 68.94 70.30 No one can.
+01 70.30 72.86 What I can give you is an inventory.
+01 72.86 74.50 What was in that house?
+01 74.50 77.06 And what was carried in afterward?
+02 0.00 2.30 The first entry is The People.
+02 2.30 4.10 Joe Moore was 43.
+02 4.10 6.08 He sold farm implements.
+02 6.08 8.12 Sarah Moore was 39,
+02 8.12 11.40 and she helped run the Children's Day program
+02 11.40 13.38 at the Presbyterian Church.
+02 13.38 15.68 Ermin was 11.
+02 15.68 19.62 That Sunday night, he spoke a piece about God.
+02 20.96 24.80 Watching over the sparrows, Catherine was 10.
+02 24.80 26.16 Boyd was seven.
+02 26.16 27.60 Paul was five.
+02 27.60 28.44 Lena.
+02 30.00 37.44 Stillinger took part in the program too. Her sister, I, N, was with her. The records disagree
+02 37.44 47.60 about their ages. Li N was 11 or 12. I N was 8 or 9. And one trial report says 6. At 6 o'clock
+02 47.60 54.16 that evening, according to their older sister Blanche, Joe Moore telephoned the Stillinger home.
+02 54.16 58.24 He did not want the girls walking back in the dark.
+02 58.24 62.08 Could they stay with his family? Blanche said she thought that would be all right.
+02 62.08 66.72 The pastor testified the program ended about 9 15.
+02 66.72 70.48 Nobody who saw what came next ever gave an account
+02 70.48 74.80 that held, so I won't give you one.
+03 0.00 7.00 Monday morning, a neighbor, Mary Peckham, noticed how still the house was.
+03 7.00 8.68 She tried the doors.
+03 8.68 11.76 Joe's brother Ross came with a key.
+03 11.76 14.40 He opened the door to the room off the parlor.
+03 14.40 15.88 He told the coroner.
+03 15.88 19.32 He did not wait long enough to see anything else.
+03 19.32 23.32 The town marshal, Hank Horton, went through every room.
+03 23.32 25.44 And then he did something.
+03 25.44 28.42 Almost nobody retails.
+03 28.42 35.42 According to the Moore store clerk, he locked the house and left the keys with the neighbor.
+03 35.42 40.86 Remember that, a locked house, a woman next door, holding the key.
+03 40.86 45.40 It is the last moment anyone could say who had been inside.
+03 45.40 48.70 When the doctors went in, every face was covered.
+03 48.70 54.22 Dr. Williams climbed the stairs to the room on the south side.
+03 54.22 61.86 A small boy on his stomach, a gauze undershirt, laid over the top of his head, Dr. Williams
+03 61.86 66.34 told the inquest what he did next.
+03 66.34 68.70 I lifted that off.
+03 68.70 71.34 Lifted it off to see which one it was.
+04 0.00 1.92 So here is the first inventory.
+04 1.92 5.52 An ax near the bed where Lena and Ina were found.
+04 5.52 8.64 A piece of bacon wrapped in a flour sack
+04 8.64 10.04 at the head of that bed.
+04 10.04 13.44 A lamp on the floor at the foot of the parents' bed.
+04 13.44 16.08 The marshal moved it out of the way.
+04 16.08 18.88 Skirts and aprons hung over the windows,
+04 18.88 20.50 marks in the ceiling.
+04 20.50 22.80 Dr. Williams found no footprints.
+04 22.80 25.82 Five years later, the coroner testified.
+04 25.82 28.58 There were no finger marks on the ax handle.
+04 28.58 30.38 Then the house was opened again.
+04 30.38 33.34 The National Guard came to hold the line.
+04 33.34 36.22 One account says, 1030.
+04 36.22 37.72 Another says noon.
+04 37.72 40.08 How many people went in before that?
+04 40.08 41.30 I can't tell you.
+04 41.30 44.62 Later accounts say 100.
+04 44.62 46.12 Others say hundreds.
+04 46.12 48.38 I have not found account from that day.
+04 48.38 49.94 What the record does show
+04 49.94 52.94 is a house entered again and again.
+04 52.94 56.26 Jessie Moore testified, she went in that day,
+04 56.26 58.86 to get family pictures for the press.
+04 58.86 60.30 Betting was burned.
+04 60.30 63.24 The house was cleaned, then repapered.
+04 63.24 65.46 So yes, things were lost.
+04 65.46 68.26 But loss only explains what disappeared.
+04 68.26 70.94 It cannot explain what showed up.
+05 0.00 4.04 Item one arrives five days after the murders.
+05 4.04 7.48 A newspaper report, date lined Omaha.
+05 7.48 12.48 A woman named Retta Johnson has come back from via lease.
+05 14.96 19.96 Ke, there is a closet, she says, off the room
+05 20.12 22.40 where the still-inger girls slept,
+05 22.40 27.04 bags of cotton batting inside, on them the marks of a man
+05 27.04 32.34 who had sat and stood there and in the girl's bed, a piece of watch chain.
+05 32.34 33.88 Now follow the closet.
+05 33.88 40.10 By the trial, five years on, the list of exhibits names a closet upstairs.
+05 40.10 44.84 A public comment posted under historian Edgar Epperly's name
+05 44.84 49.32 traces a version of the story to a Kansas City reporter
+05 49.32 52.44 with cigarettes and a heel print in the dust.
+05 52.44 57.32 It says, an undertaker checked, and the box of cotton
+05 57.32 61.96 sat on two soup boxes that had not been crushed.
+05 61.96 65.20 Today, you will hear, it was the attic.
+05 65.20 70.40 Now follow the chain, a watch chain, in a bed in June.
+05 70.40 76.20 By the trial, a piece of key chain and Joe Moore's watch
+05 76.20 77.28 on the floor.
+05 77.28 79.62 The containers stayed the same.
+05 79.62 82.06 What was inside them kept changing.
+06 0.00 10.12 August 1912. A man from V-E-L-I-S-S, KA, tells people in council bluffs that detectives have
+06 10.12 17.92 a photograph of the killer. They got it, he says, from the retina of one of the still
+06 17.92 25.64 injured sisters. I have found no such photograph in any record. Her parents were alive to read
+06 25.64 33.14 By the end of that year, newspapers had reported at least five different men held or arrested.
+06 33.14 39.44 A brother-in-law. A man with stained shoes. A farmhand.
+06 41.44 48.44 Who wrote about a vision. A Sioux City porter, whom the headline identified by his race.
+06 48.44 55.72 A farmer. None of them was convicted of anything at V. Heli.
+06 70.84 77.12 The question had stopped being what happened in the house. It had become who
+06 77.12 78.32 Who was gonna pay for it?
+07 0.00 6.36 In 1916, a private detective named James Wilkerson brought the case of theory.
+07 6.36 12.96 State Senator Frank Jones, Joe Moore's old employer and business rival, had hired a killer.
+07 12.96 18.32 Wilkerson's man was William Mansfield. A grand jury refused to indict him.
+07 18.32 25.92 Frank Jones was never charged with anything. He sued Wilkerson for slander, asked for $60,000,
+07 25.92 31.76 and lost. And in that lawsuit, a witness named Ed Landers took the oath,
+07 31.76 37.60 you have met Landers already. In a way, he was staying a few houses from the Moors.
+07 37.60 42.88 At the inquest in 1912, he described something he heard that Sunday night, a sound.
+07 44.88 51.92 A sound, like one boy hooting for another. The next day, he said, it occurred to him,
+07 51.92 56.32 It might have been a woman moaning. In the published summary of that testimony,
+07 56.32 62.88 that is all there is. Four years later, under Oph, he said that on that same night,
+07 62.88 71.92 he saw Frank Jones's son, Albert, go into the Moore home. Albert Jones was never charged either.
+07 71.92 79.04 Both men denied any part in it. The prosecution attacked Landers' account in open court. A sound
+07 79.04 81.04 became a man.
+08 0.00 4.24 In 1917, the state found its own document.
+08 4.24 8.36 The Reverend Lynn George Kelly was a traveling preacher
+08 8.36 10.26 in town for one Sunday.
+08 10.26 13.52 He was charged with the murder of Lena Stillinger.
+08 13.52 16.44 He had been charged with mailing obscene letters,
+08 16.44 19.80 and he had been held in a federal mental hospital.
+08 19.80 22.10 He caught the 519 train that morning.
+08 23.78 27.68 The train left hours before anyone opened the door.
+08 27.68 32.40 Witnesses swore he spoke of the murders before the bodies were found.
+08 32.40 34.24 They swore it five years later.
+08 34.24 38.08 A station ticket record backed up the date of one encounter.
+08 38.08 39.92 It could not record what was said.
+08 39.92 41.60 Then, Logan jail.
+08 41.60 46.64 August 30th, a newspaper editor testified that he was handcuffed
+08 46.64 50.08 and placed in Kelly's cell playing an automobile thief.
+08 50.08 52.24 A sheriff read out accusations.
+08 52.24 55.40 The editor recalled 87 paragraphs.
+08 55.40 57.40 Kelly said, that's a lie.
+08 57.40 61.70 Early the next morning, a county attorney took down a statement.
+08 61.70 65.90 Its first lines say it was made without any promise or threats.
+08 65.90 69.78 In it, a voice tells Kelly to slay utterly.
+08 69.78 73.12 He climbs the stairs, thinking they are Jacob's ladder.
+08 73.12 75.64 He kills the children first, it says.
+08 75.64 79.84 Then the parents, no record I have read, can tell you.
+08 79.84 82.10 Whether that is the order it happened?
+08 82.10 87.90 The Attorney General told the jury Kelly had been asked 15 times whether he killed the
+08 87.90 91.74 parents first, and 15 times he said no.
+08 91.74 95.50 Twenty-five times he was told no promise could be made.
+08 95.50 99.34 Fifty-one times he was told to tell the truth.
+08 99.34 100.94 The state counted those.
+08 100.94 103.94 It offered them as proof that he was free.
+08 103.94 109.86 At trial, Kelly said, I have no recollection of signing that paper.
+08 109.86 115.70 record shows a signature. It cannot show you what the signature is worth.
+09 0.00 3.74 There is one more name in the Omaha paper.
+09 3.74 6.82 A committee was raising money for Kelly's defense.
+09 6.82 7.98 It held meetings.
+09 9.82 12.14 It held meetings.
+09 12.14 13.62 It passed the hat.
+09 13.62 15.70 Its officers are listed.
+09 15.70 18.34 Remember the man who told the coroner?
+09 18.34 20.18 My wife did, yes.
+09 20.18 22.84 She phoned about three different times.
+09 22.84 25.50 The state of Iowa had charged Kelly
+09 25.50 26.86 with killing his daughter.
+09 26.86 33.54 And Joseph Stillinger was the president of the committee, trying to set him free.
+10 0.00 1.84 The paper does not say why.
+10 1.84 6.00 The committee said it wanted the guilty man brought to justice.
+10 6.00 8.12 It did not believe it had him.
+10 8.12 13.68 The first jury took 20 ballots, 11 for acquittal every time.
+10 13.68 19.92 One man, WC Brown, held for not guilty by reason of insanity.
+10 19.92 23.48 In November, a second jury acquitted Kelly.
+10 23.48 25.96 He was found not guilty.
+10 25.96 27.24 That is the verdict.
+10 27.24 29.12 There is one last item.
+10 29.12 38.72 March 1931. A man in a Detroit jail after five hours with detectives confesses to the VLI.
+10 38.72 44.64 The papers report that his fingerprints matched prints found at the scene. Remember the coroner.
+10 44.64 50.96 No finger marks on the handle. And this man's confession has a problem. He says he killed a man,
+10 50.96 59.04 his wife, and their four children. Six people. Officer said it did not tally.
+10 59.04 64.16 The last confession in the file forgot Lena and Ina.
+11 0.00 7.06 So here is the inventory now. A house. An axe. A few photographs.
+11 7.06 12.50 Everything else was carried in. Some of it by people with something to gain.
+11 12.50 18.70 Much of it, I think, by people who could not stand an empty line on the form.
+11 18.70 25.54 That is what this kind of crime does. It leaves a space the exact size of a name.
+11 25.54 27.86 and a town will put anything in it.
+11 27.86 32.82 A stranger, a senator, a preacher who heard voices.
+11 32.82 36.46 No one has ever been convicted of these murders.
+11 36.46 38.60 Reverend Kelly was acquitted.
+11 38.60 41.58 Frank and Albert Jones were never charged.
+11 41.58 46.58 The one thing in this file that nobody needed to invent
+11 46.58 51.86 is a mother on a Monday morning calling the house.
+11 51.86 60.66 About three different times, this film is drawn from court testimony and newspapers of the time.
+11 60.66 62.66 A report is not proof.
+11 62.66 67.86 Everyone named here is presumed innocent of these murders.

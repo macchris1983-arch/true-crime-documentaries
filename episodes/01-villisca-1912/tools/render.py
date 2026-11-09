@@ -4,12 +4,17 @@ FPS=24
 dur={n:os.path.getsize(f"voice2/{n}.pcm")/96000+(5 if n in("03","07","09","10") else 0) for n in ["01","02","03","04","05","06","07","08","09","10","11"]}
 sil={"03","07","09","10"}
 ALL=[]
-T=0
-for n in sorted(S):
-    L=S[n];tot=round(dur[n]*FPS);q=[tot//len(L)+(1 if i<tot%len(L) else 0) for i in range(len(L))]
-    for k,x in enumerate(L):
+from cues import CUE,N as NEW
+from timing import starts
+T=0;ST=starts()
+for n in sorted(CUE):
+    st,d=ST[n];bounds=st[1:]+[d];base=T;prev=0
+    for i,(k,cue) in enumerate(CUE[n]):
+        x=NEW[k] if isinstance(k,str) else S[n][k]
         b=x[0]=="B"; fn=x[1] if b else x[0]; cit=x[2] if b else x[1]
-        ALL.append(dict(ch=n,k=k,fn=fn,cit=cit,fr=q[k],black=b,sil=b and k==len(L)-1 and n in sil,t=T));T+=q[k]/FPS
+        endf=round((base+bounds[i])*FPS)-round(T*FPS)
+        last=i==len(CUE[n])-1
+        ALL.append(dict(ch=n,k=i,fn=fn,cit=cit,fr=endf,black=b,sil=last and n in sil and b,t=T));T+=endf/FPS
 ALL.append(dict(ch="12",k=0,fn=lambda:card("Sources in the description.\nNo one has ever been convicted of these murders.",size=76),cit="",fr=round(10.5*FPS),black=False,sil=False,t=T))
 def plate(c):
     i=Image.new("RGBA",(1920,1080),(0,0,0,0))
