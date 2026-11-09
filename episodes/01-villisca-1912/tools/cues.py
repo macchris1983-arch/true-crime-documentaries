@@ -1,6 +1,12 @@
 from shots import *
 acc=["A closet, off the girls' room","Bags of cotton batting","The marks of a man","A piece of watch chain, in the bed"]
-N={
+from draw import center,f,SER,DIM
+def phone():
+    i=card("“She phoned "+QT+".”","JOSEPH STILLINGER")
+    import PIL.ImageDraw as ID;d=ID.Draw(i)
+    center(d,["The summary records the coroner asking about “Sunday morning.”","The girls stayed Sunday night. He said she expected them back before school.","We read it as Monday, June 10. The sources do not agree."],f(SER,54),1080,DIM,78)
+    return i
+N={"phone":(phone,I),
 "ages":((lambda:card("Lena: 11 or 12.\nIna: 8 or 9, or 6.","THE RECORDS DISAGREE")),"Coroner's inquest and trial reports, 1912 and 1917"),
 "stay":((lambda:card("Blanche Stillinger thought that would be all right.","HER ACCOUNT")),I),
 "locked":((lambda:plan(note="Locked. The key, next door.")),D),
@@ -16,7 +22,7 @@ N={
 "three":((lambda:card("A stranger.\nA senator.\nA preacher who heard voices.")),""),
 }
 CUE={
-"01":[(1,"On the morning"),(0,"My wife did"),(2,"She tried, he said"),(3,"That house was locked"),(5,"A crowd walked"),(7,"But here is what"),(6,"A closet."),(4,"I can't tell you")],
+"01":[(1,"On the morning"),(0,"My wife did"),("phone","She tried, he said"),(3,"That house was locked"),(5,"A crowd walked"),(7,"But here is what"),(6,"A closet."),(4,"I can't tell you")],
 "02":[(1,"The first entry"),(2,"Sarah Moore was"),(3,"Herman was eleven"),(5,"Lena Stillinger took"),("ages","The records disagree"),(6,"At six o'clock"),("stay","Could they stay"),(7,"The pastor testified")],
 "03":[(0,"Monday morning"),(2,"Joe's brother Ross"),(1,"He told the coroner"),(3,"And then he did"),(4,"and left the keys"),("locked","It is the last moment"),(5,"Dr. Williams climbed"),(6,"Dr. Williams told"),(7,"I lifted that off")],
 "04":[(0,"So here is the first"),(1,"A piece of bacon"),(3,"A lamp on the floor"),(4,"Dr. Williams found"),(6,"Then the house was opened"),(5,"How many people"),(7,"What the record does"),(8,"Bedding was burned")],

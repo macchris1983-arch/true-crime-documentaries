@@ -1,5 +1,5 @@
 from draw import *
-I="Coroner's Inquest, 11 June 1912";D="Diagram by the channel";B27="Omaha Daily Bee, 27 Sept 1917, p. 4";B19a="Omaha Daily Bee, 19 Sept 1917, p. 1";B19b="Omaha Daily Bee, 19 Sept 1917, p. 2";B15="Omaha Daily Bee, 15 Sept 1917, p. 6";B29="Omaha Daily Bee, 29 Sept 1917, p. 2";B1="Omaha Daily Bee, 1 Sept 1917, p. 2";IA="Period report, transcribed by IAGenWeb";EP="Comment signed E. Epperly, Iowa Cold Cases, 2026"
+I="Coroner's inquest, 11 June 1912, as summarized by the Villisca Axe Murder House";D="Diagram by the channel";B27="Omaha Daily Bee, 27 Sept 1917, p. 4";B19a="Omaha Daily Bee, 19 Sept 1917, p. 1";B19b="Omaha Daily Bee, 19 Sept 1917, p. 2";B15="Omaha Daily Bee, 15 Sept 1917, p. 6";B29="Omaha Daily Bee, 29 Sept 1917, p. 2";B1="Omaha Daily Bee, 1 Sept 1917, p. 2";IA="Period report, transcribed by IAGenWeb";EP="Comment signed E. Epperly, Iowa Cold Cases, 2026"
 QT="about three different times"
 ppl=["Joe Moore, 43","Sarah Moore, 39","Herman Moore, 11","Katherine Moore, 10","Boyd Moore, 7","Paul Moore, 5","Lena Stillinger, 11 or 12","Ina Stillinger, 8 or 9"]
 e=[("June 1912","A closet, off the girls' room"),("Sept 1917","A closet, upstairs"),("Later","Cigarettes. A heel print in the dust."),("Checked","The box sat on suit boxes, not crushed."),("Today","The attic")]
