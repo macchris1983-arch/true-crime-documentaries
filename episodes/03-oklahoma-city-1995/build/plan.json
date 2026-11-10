@@ -1,0 +1,539 @@
+{
+ "00a": [
+  {
+   "key": "c_1020",
+   "cue": "At twenty past ten",
+   "kind": "card",
+   "src": "cards/c_1020.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "c_pistol",
+   "cue": "He found a pistol",
+   "kind": "card",
+   "src": "cards/c_pistol.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "c_jail",
+   "cue": "He booked the driver",
+   "kind": "card",
+   "src": "cards/c_jail.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "v_fbi",
+   "cue": "For the next two days",
+   "kind": "vid",
+   "src": "imp",
+   "t": 470,
+   "cite": "Defense Visual Information video, 1995 \u00b7 DVIDS \u00b7 public domain"
+  },
+  {
+   "key": "b_cell",
+   "cue": "He was already in a cell",
+   "kind": "card",
+   "src": "cards/b_cell.png",
+   "cite": "",
+   "black": true
+  },
+  {
+   "key": "i_jd2",
+   "cue": "And the second man",
+   "kind": "img",
+   "src": "jd2.png",
+   "cite": "FBI \u00b7 public domain"
+  }
+ ],
+ "00b": [
+  {
+   "key": "c_title",
+   "cue": "@0",
+   "kind": "card",
+   "src": "cards/c_title.png",
+   "cite": "",
+   "black": false
+  }
+ ],
+ "00c": [
+  {
+   "key": "i_bldg",
+   "cue": "This is the Oklahoma City",
+   "kind": "img",
+   "src": "fema1562.jpg",
+   "cite": "FEMA News Photo, April 26, 1995 \u00b7 public domain"
+  },
+  {
+   "key": "i_chairs",
+   "cue": "A hundred and sixty-eight",
+   "kind": "img",
+   "src": "mem61.jpg",
+   "cite": "Carol M. Highsmith, Library of Congress \u00b7 public domain"
+  },
+  {
+   "key": "c_jury",
+   "cue": "This is not a mystery",
+   "kind": "card",
+   "src": "cards/c_jury.png",
+   "cite": "",
+   "black": false
+  },
+  {
+   "key": "i_jd1",
+   "cue": "It is a story about how",
+   "kind": "img",
+   "src": "jd1_sketch.png",
+   "cite": "FBI \u00b7 public domain"
+  },
+  {
+   "key": "v_raw",
+   "cue": "I'm going to show you the record",
+   "kind": "vid",
+   "src": "raw",
+   "t": 120,
+   "cite": "Oklahoma National Guard video, April 1995 \u00b7 DVIDS \u00b7 public domain"
+  },
+  {
+   "key": "c_welcome",
+   "cue": "Welcome to story",
+   "kind": "card",
+   "src": "cards/c_welcome.png",
+   "cite": "",
+   "black": false
+  }
+ ],
+ "01": [
+  {
+   "key": "c_902",
+   "cue": "At two minutes past nine",
+   "kind": "card",
+   "src": "cards/c_902.png",
+   "cite": "FBI history, Oklahoma City bombing case",
+   "black": false
+  },
+  {
+   "key": "i_night",
+   "cue": "About a third of the building",
+   "kind": "img",
+   "src": "fema1547.jpg",
+   "cite": "FEMA News Photo, April 26, 1995 \u00b7 public domain"
+  },
+  {
+   "key": "i_cars",
+   "cue": "More than three hundred",
+   "kind": "img",
+   "src": "dod_cars.jpg",
+   "cite": "U.S. Air Force photo, SSgt Preston Chasteen, 1995 \u00b7 public domain"
+  },
+  {
+   "key": "c_168",
+   "cue": "The FBI counts",
+   "kind": "card",
+   "src": "cards/c_168.png",
+   "cite": "FBI history, Oklahoma City bombing case",
+   "black": false
+  },
+  {
+   "key": "v_rain",
+   "cue": "Several hundred more",
+   "kind": "vid",
+   "src": "raw",
+   "t": 30,
+   "cite": "Oklahoma National Guard video, April 1995 \u00b7 DVIDS \u00b7 public domain"
+  },
+  {
+   "key": "v_rubble",
+   "cue": "It shows the search",
+   "kind": "vid",
+   "src": "raw",
+   "t": 400,
+   "cite": "Oklahoma National Guard video, April 1995 \u00b7 DVIDS \u00b7 public domain"
+  },
+  {
+   "key": "b_choice",
+   "cue": "I will not show you",
+   "kind": "card",
+   "src": "cards/b_choice.png",
+   "cite": "",
+   "black": true
+  }
+ ],
+ "02": [
+  {
+   "key": "v_site",
+   "cue": "On April twentieth",
+   "kind": "vid",
+   "src": "imp",
+   "t": 482,
+   "cite": "Defense Visual Information video, 1995 \u00b7 DVIDS \u00b7 public domain"
+  },
+  {
+   "key": "c_vin",
+   "cue": "It carried a vehicle",
+   "kind": "card",
+   "src": "cards/c_vin.png",
+   "cite": "FBI history, Oklahoma City bombing case",
+   "black": false
+  },
+  {
+   "key": "l_kling",
+   "cue": "The truck had been reserved",
+   "kind": "card",
+   "src": "cards/l_kling.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "i_jd1b",
+   "cue": "The people at the body shop",
+   "kind": "img",
+   "src": "jd1_sketch.png",
+   "cite": "FBI \u00b7 public domain"
+  },
+  {
+   "key": "i_jd2b",
+   "cue": "And John Doe Number Two",
+   "kind": "img",
+   "src": "jd2.png",
+   "cite": "FBI \u00b7 public domain"
+  }
+ ],
+ "03": [
+  {
+   "key": "c_back",
+   "cue": "Go back to the nineteenth",
+   "kind": "card",
+   "src": "cards/c_back.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "c_tag",
+   "cue": "Trooper Charles Hanger",
+   "kind": "card",
+   "src": "cards/c_tag.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "c_mile",
+   "cue": "He pulled it over",
+   "kind": "card",
+   "src": "cards/c_mile.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "i_photo",
+   "cue": "The driver handed him",
+   "kind": "img",
+   "src": "jd1.jpg",
+   "cite": "FBI \u00b7 public domain"
+  },
+  {
+   "key": "c_gun",
+   "cue": "When the trooper reached",
+   "kind": "card",
+   "src": "cards/c_gun.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "c_none",
+   "cue": "The dispatcher found",
+   "kind": "card",
+   "src": "cards/c_none.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "l_chg",
+   "cue": "The trooper booked him",
+   "kind": "card",
+   "src": "cards/l_chg.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "b_know",
+   "cue": "He did not know",
+   "kind": "card",
+   "src": "cards/b_know.png",
+   "cite": "",
+   "black": true
+  }
+ ],
+ "04": [
+  {
+   "key": "i_jd1c",
+   "cue": "On April twenty-first",
+   "kind": "img",
+   "src": "jd1_sketch.png",
+   "cite": "FBI \u00b7 public domain"
+  },
+  {
+   "key": "e_two",
+   "cue": "How the name came back",
+   "kind": "card",
+   "src": "cards/e_two.png",
+   "cite": "FBI history, Oklahoma City bombing case",
+   "black": false
+  },
+  {
+   "key": "c_rec",
+   "cue": "Either way, agents ran",
+   "kind": "card",
+   "src": "cards/c_rec.png",
+   "cite": "FBI history, Oklahoma City bombing case",
+   "black": false
+  },
+  {
+   "key": "c_cust",
+   "cue": "Timothy McVeigh was in custody",
+   "kind": "card",
+   "src": "cards/c_cust.png",
+   "cite": "FBI history, Oklahoma City bombing case",
+   "black": false
+  },
+  {
+   "key": "v_guard",
+   "cue": "Federal agents reached him",
+   "kind": "vid",
+   "src": "sec",
+   "t": 300,
+   "cite": "Oklahoma National Guard video, April 1995 \u00b7 DVIDS \u00b7 public domain"
+  },
+  {
+   "key": "c_nich",
+   "cue": "The same day, in Herington",
+   "kind": "card",
+   "src": "cards/c_nich.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "b_04",
+   "cue": "@end",
+   "kind": "card",
+   "src": "cards/b_04.png",
+   "cite": "",
+   "black": true
+  }
+ ],
+ "05": [
+  {
+   "key": "i_jd2c",
+   "cue": "That left the second sketch",
+   "kind": "img",
+   "src": "jd2.png",
+   "cite": "FBI \u00b7 public domain"
+  },
+  {
+   "key": "c_tips",
+   "cue": "Tips poured in",
+   "kind": "card",
+   "src": "cards/c_tips.png",
+   "cite": "",
+   "black": false
+  },
+  {
+   "key": "c_june",
+   "cue": "Then, in June",
+   "kind": "card",
+   "src": "cards/c_june.png",
+   "cite": "U.S. Justice Department statements, June 1995 and January 1997",
+   "black": false
+  },
+  {
+   "key": "c_pvt",
+   "cue": "He was an Army private",
+   "kind": "card",
+   "src": "cards/c_pvt.png",
+   "cite": "U.S. Justice Department statements, June 1995 and January 1997",
+   "black": false
+  },
+  {
+   "key": "e_day",
+   "cue": "A day apart",
+   "kind": "card",
+   "src": "cards/e_day.png",
+   "cite": "U.S. Justice Department statements, June 1995 and January 1997",
+   "black": false
+  },
+  {
+   "key": "c_clr",
+   "cue": "The private had nothing",
+   "kind": "card",
+   "src": "cards/c_clr.png",
+   "cite": "U.S. Justice Department statements, June 1995 and January 1997",
+   "black": false
+  },
+  {
+   "key": "c_gj",
+   "cue": "A county grand jury",
+   "kind": "card",
+   "src": "cards/c_gj.png",
+   "cite": "",
+   "black": false
+  },
+  {
+   "key": "i_jd2d",
+   "cue": "But the sketch had already",
+   "kind": "img",
+   "src": "jd2.png",
+   "cite": "FBI \u00b7 public domain"
+  },
+  {
+   "key": "b_sold",
+   "cue": "The record says he was",
+   "kind": "card",
+   "src": "cards/b_sold.png",
+   "cite": "",
+   "black": true
+  }
+ ],
+ "06": [
+  {
+   "key": "c_den",
+   "cue": "The trial was moved",
+   "kind": "card",
+   "src": "cards/c_den.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "l_mcv",
+   "cue": "On June second",
+   "kind": "card",
+   "src": "cards/l_mcv.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "l_nic",
+   "cue": "Terry Nichols was tried",
+   "kind": "card",
+   "src": "cards/l_nic.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "c_2004",
+   "cue": "In two thousand four",
+   "kind": "card",
+   "src": "cards/c_2004.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "c_fort",
+   "cue": "Michael Fortier",
+   "kind": "card",
+   "src": "cards/c_fort.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  }
+ ],
+ "07": [
+  {
+   "key": "c_may",
+   "cue": "The case had one more turn",
+   "kind": "card",
+   "src": "cards/c_may.png",
+   "cite": "",
+   "black": false
+  },
+  {
+   "key": "c_pages",
+   "cue": "In May, two thousand one",
+   "kind": "card",
+   "src": "cards/c_pages.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "c_june11",
+   "cue": "On June eleventh",
+   "kind": "card",
+   "src": "cards/c_june11.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "b_07",
+   "cue": "@end",
+   "kind": "card",
+   "src": "cards/b_07.png",
+   "cite": "",
+   "black": true
+  }
+ ],
+ "08": [
+  {
+   "key": "v_bldg",
+   "cue": "So here is what the record holds",
+   "kind": "vid",
+   "src": "imp",
+   "t": 120,
+   "cite": "Defense Visual Information video, 1995 \u00b7 DVIDS \u00b7 public domain"
+  },
+  {
+   "key": "c_plate",
+   "cue": "A trooper who stopped",
+   "kind": "card",
+   "src": "cards/c_plate.png",
+   "cite": "",
+   "black": false
+  },
+  {
+   "key": "i_jd2e",
+   "cue": "And here is what was added",
+   "kind": "img",
+   "src": "jd2.png",
+   "cite": "FBI \u00b7 public domain"
+  },
+  {
+   "key": "l_conv",
+   "cue": "The courts convicted three men",
+   "kind": "card",
+   "src": "cards/l_conv.png",
+   "cite": "Trial record, U.S. v. McVeigh and U.S. v. Nichols",
+   "black": false
+  },
+  {
+   "key": "i_mem",
+   "cue": "Where the memorial now stands",
+   "kind": "img",
+   "src": "mem62.jpg",
+   "cite": "Carol M. Highsmith, Library of Congress \u00b7 public domain"
+  },
+  {
+   "key": "c_disc",
+   "cue": "This film is drawn from",
+   "kind": "card",
+   "src": "cards/c_disc.png",
+   "cite": "",
+   "black": false
+  },
+  {
+   "key": "i_mem2",
+   "cue": "And the arrest that held him",
+   "kind": "img",
+   "src": "mem804.jpg",
+   "cite": "Carol M. Highsmith, Library of Congress \u00b7 public domain"
+  }
+ ],
+ "09": [
+  {
+   "key": "c_end",
+   "cue": "@0",
+   "kind": "card",
+   "src": "cards/c_end.png",
+   "cite": "",
+   "black": false
+  }
+ ]
+}
