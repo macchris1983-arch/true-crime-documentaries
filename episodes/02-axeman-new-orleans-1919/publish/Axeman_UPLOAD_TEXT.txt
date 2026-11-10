@@ -2,9 +2,9 @@ THE AXEMAN OF NEW ORLEANS — EVERYTHING TO PASTE WHEN UPLOADING
 =====================================================
 
 FILES
-- YouTube video:      Axeman_New_Orleans_SUBTITLED.mp4   (12:06, subtitles burned in)
+- YouTube video:      Axeman_New_Orleans_SUBTITLED_MUSIC.mp4   (12:06, subtitles + music)
 - YouTube thumbnail:  Axeman_thumbnail.jpg
-- Instagram + TikTok: Axeman_vertical_teaser.mp4         (vertical, subtitles burned in)
+- Instagram + TikTok: Axeman_vertical_teaser_MUSIC.mp4    (vertical, subtitles + music)
 - Optional:           Axeman_captions.srt
 
 
@@ -50,6 +50,10 @@ SOURCES (search these)
 
 IMAGES
 The newspaper art and the sheet-music cover are US publications from 1919 and are in the public domain. The street photographs of Canal Street and the French Market are Detroit Publishing Co. photochromes from about 1900, also public domain; they show the city, not the crime scenes. A line of small print on the 1919 sheet-music cover containing a racial slur has been removed. No photographs of the victims are used.
+
+MUSIC (all public domain)
+- Erik Satie, Gnossiennes Nos. 1, 2 and 3, performed by La Pianista, released into the public domain (Wikimedia Commons)
+- Original Dixieland Jass Band, "Livery Stable Blues" and "Dixie Jass Band One-Step" (recorded 1917), "Tiger Rag" (recorded 1918), public-domain recordings (Wikimedia Commons)
 
 This film discusses the killing of a child. It contains no graphic images.
 Narration: AI voice (Google Gemini).
