@@ -13,7 +13,7 @@ GAP = 0.7                             # breath between chunks
 TEMPO = {"05": 0.94, "06": 0.95}      # slow the two fast takes slightly
 FIXED = {"00b": 4.5, "09": 10.0}      # title and end card
 VID = {"raw": "DOD_107913656.mp4", "imp": "DOD_107941468.mp4", "sec": "DOD_107904996-640x480-922k.mp4"}
-VFIX = {("imp", 470): 405, ("imp", 482): 440, ("imp", 120): 165, ("raw", 30): 8}
+VFIX = {("imp", 470): 421, ("imp", 482): 446, ("imp", 120): 165, ("raw", 30): 8}
 import glob as _g
 FONT = (_g.glob("/usr/share/fonts/**/DejaVuSans.ttf", recursive=True) + _g.glob("/usr/share/fonts/**/*Montserrat*Regular*.ttf", recursive=True) + _g.glob("/usr/share/fonts/**/*.ttf", recursive=True))[0]
 W, H, FPS = 1920, 1080, 30
