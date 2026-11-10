@@ -15,7 +15,7 @@ subprocess.check_call(["ffmpeg","-y","-v","error","-f","s16le","-ar","48000","-a
 subprocess.check_call(["ffmpeg","-y","-v","error","-f","concat","-safe","0","-i","list.txt","-i","voice2/mix.wav","-map","0:v","-map","1:a","-c:v","copy","-c:a","aac","-b:a","192k","-movflags","+faststart","-shortest","Villisca.tmp.mp4"])
 os.rename("Villisca.tmp.mp4","/home/claude/Villisca_1912_The_Inventory_FINAL.mp4")
 # captions: words proportionally across each section
-src=open('/home/claude/villisca_vo_source.txt').read();p=re.split(r'=== CHUNK (\d+) ===\n',src)[1:]
+src=open('/home/claude/villisca_vo_source.txt').read();p=re.split(r"=== CHUNK (\w+) ===\n",src)[1:]
 fmt=lambda t:"%02d:%02d:%02d,%03d"%(t//3600,t//60%60,t%60,(t%1)*1000)
 out=[];k=1
 for n,b in zip(p[0::2],p[1::2]):
