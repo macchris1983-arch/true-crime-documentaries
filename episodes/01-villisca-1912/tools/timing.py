@@ -3,7 +3,10 @@ from lines import *;from cues import CUE
 def starts():
     C=chunks();R={}
     for n in sorted(CUE):
-        LT,e0=line_times(n,C[n]);d=os.path.getsize(f"voice2/{n}.pcm")/96000+(5 if n in("03","07","09","10") else 0)
+        d=os.path.getsize(f"voice2/{n}.pcm")/96000+(5 if n in("03","07","09","10") else 0)
+        if n not in C:
+            R[n]=([float(cue[1:]) for k,cue in CUE[n]],d);continue
+        LT,e0=line_times(n,C[n])
         st=[];j=0
         for k,cue in CUE[n]:
             if cue=="@END":st.append(e0+0.3);continue

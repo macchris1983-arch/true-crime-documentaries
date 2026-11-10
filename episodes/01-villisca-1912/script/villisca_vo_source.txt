@@ -1,17 +1,4 @@
-=== CHUNK 01 ===
-On the morning of June tenth, nineteen twelve,
-a mother in southwest Iowa
-telephoned a neighbor's house.
-Her husband told the coroner about it.
-My wife did, yes.
-He could not say what time.
-She tried, he said,
-about three different times.
-Her two daughters had stayed the night there.
-She expected them back.
-[pause]
-That house was locked.
-The blinds were down.
+=== CHUNK 00 ===
 Everyone who tells this story
 will tell you why it was never solved.
 A crowd walked through the rooms.
@@ -26,6 +13,21 @@ A photograph, said to come from inside a child's eye.
 A sound that turned into a man.
 A signed confession.
 A fingerprint.
+
+=== CHUNK 01 ===
+On the morning of June tenth, nineteen twelve,
+a mother in southwest Iowa
+telephoned a neighbor's house.
+Her husband told the coroner about it.
+My wife did, yes.
+He could not say what time.
+She tried, he said,
+about three different times.
+Her two daughters had stayed the night there.
+She expected them back.
+[pause]
+That house was locked.
+The blinds were down.
 I can't tell you who killed eight people in Villisca.
 No one can.
 What I can give you is an inventory.

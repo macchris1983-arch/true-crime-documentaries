@@ -20,11 +20,7 @@ S={"01":[(lambda:card("“My wife did, yes.”","JOSEPH STILLINGER, TO THE CORON
 def scan(name,text=""):
     im=Image.open(f"scans/{name}.png").convert("RGB")
     im=im.resize((2880,int(664*2880/1108)),Image.LANCZOS).crop((0,0,2880,1620))
-    if text:
-        d=ImageDraw.Draw(im,"RGBA");F=f(SER,60);L=wrap(d,text,F,2500);h=84*len(L)+70;y0=1470-h
-        d.rectangle([0,y0,2880,1470],fill=(12,12,11,232));y=y0+35
-        for l in L:
-            d.text(((2880-d.textlength(l,font=F))/2,y),l,font=F,fill=INK);y+=84
+    im.info["scan"]=True;im.info["strip"]=text
     return im
 J11="Omaha Daily Bee, 11 June 1912, p. 1";J12="Omaha Daily Bee, 12 June 1912, p. 1"
 P={("01",1):("jun11","",J11),("01",5):("jun12","",J12),
