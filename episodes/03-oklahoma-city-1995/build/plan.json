@@ -299,12 +299,12 @@
    "black": false
   },
   {
-   "key": "v_guard",
+   "key": "c_agents",
    "cue": "Federal agents reached him",
-   "kind": "vid",
-   "src": "sec",
-   "t": 300,
-   "cite": "Oklahoma National Guard video, April 1995 \u00b7 DVIDS \u00b7 public domain"
+   "kind": "card",
+   "src": "cards/c_agents.png",
+   "cite": "FBI history, Oklahoma City bombing case",
+   "black": false
   },
   {
    "key": "c_nich",
