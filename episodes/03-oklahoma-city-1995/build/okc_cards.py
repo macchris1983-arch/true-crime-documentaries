@@ -13,6 +13,7 @@ FEMA = "FEMA News Photo, April 26, 1995 · public domain"
 DOD = "U.S. Air Force photo, SSgt Preston Chasteen, 1995 · public domain"
 HS = "Carol M. Highsmith, Library of Congress · public domain"
 FBIP = "FBI photo · public domain"
+MIL = "U.S. military video, April 1995 · DVIDS · public domain"
 
 
 def title():
@@ -107,6 +108,7 @@ S = {
         ("c_june11", "On June eleventh", "card", C("June 11, 2001."), TRIAL),
         ("b_07", "@end", "blk", lambda: blk(), "")],
  "08": [("v_bldg", "So here is what the record holds", "vid", ("imp", 120), IMP),
+        ("v_face", "A truck. An axle", "vid", ("b19", 572), MIL),
         ("c_plate", "A trooper who stopped", "card", C("A car with no plate."), ""),
         ("i_jd2e", "And here is what was added", "img", "jd2.png", FBI),
         ("l_conv", "The courts convicted three men", "card", lambda: ledger([("Timothy McVeigh", "EXECUTED 2001"), ("Terry Nichols", "LIFE"), ("Michael Fortier", "12 YEARS"), ("The Army private", "CLEARED")], "THE RECORD"), TRIAL),

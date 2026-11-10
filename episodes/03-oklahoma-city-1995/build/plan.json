@@ -481,6 +481,14 @@
    "cite": "Defense Visual Information video, 1995 \u00b7 DVIDS \u00b7 public domain"
   },
   {
+   "key": "v_face",
+   "cue": "A truck. An axle",
+   "kind": "vid",
+   "src": "b19",
+   "t": 572,
+   "cite": "U.S. military video, April 1995 \u00b7 DVIDS \u00b7 public domain"
+  },
+  {
    "key": "c_plate",
    "cue": "A trooper who stopped",
    "kind": "card",
