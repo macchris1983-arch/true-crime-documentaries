@@ -1,0 +1,5 @@
+tp_panel_map.png  - Times-Picayune, March 1919: "The 'Panel Burglar' theory of the ax murders told in pictures". Wikimedia Commons "Axeman Map New Orleans March 1919.jpg". Public domain (US, 1919).
+sheet_music.png   - "The Mysterious Axman's Jazz (Don't Scare Me Papa)", Joseph John Davilla, World's Music Publishing Co., New Orleans, 1919; cover cartoon credited "Courtesy of The Times-Picayune, March 19, 1919". Wikimedia Commons "Mysterious axman.gif". Public domain.
+                    NOTE: small print under the composer's name contains a racial slur (the title of an earlier song). Crop or blur that line (approx. y 150-165 at 648px width) before use.
+french_market.png - Detroit Photographic Co., "French Market, New Orleans", c. 1900. Wikimedia Commons. Public domain.
+canal_street.png  - Detroit Photographic Co., "Canal Street, New Orleans", c. 1900. Wikimedia Commons. Public domain.
